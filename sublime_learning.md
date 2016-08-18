@@ -16,4 +16,14 @@ subl .
 * railscasts Colour Scheme
 * AdvancedNewFile  (alt+command+n -> new file)
 * Git
+* SyncedSideBar
+* sass
+* emmet
+* [gulp](https://github.com/NicoSantangelo/sublime-gulp)
+* [Material Theme](https://github.com/equinusocio/material-theme)
+
+
+
+
+
 
