@@ -1,3 +1,4 @@
+[TOC]
 # Sublime learning
 
 ## Install sublime
